@@ -1,0 +1,16 @@
+<map id="sparta::OutPort::bind" name="sparta::OutPort::bind">
+<area shape="rect" id="node1" title="Bind to an InPort." alt="" coords="5,249,161,275"/>
+<area shape="rect" id="node2" href="$classsparta_1_1InPort.html#a4aa69ee3a7e62514552665661ca5b603" title="Called by the OutPort, remember the binding." alt="" coords="249,21,401,47"/>
+<area shape="rect" id="node3" href="$classsparta_1_1TreeNode.html#a912f3da8fc94847159ebe53c39b58344" title="Walks up parents (starting with self) until a parent with an associated local clock is found,..." alt="" coords="226,71,423,98"/>
+<area shape="rect" id="node7" href="$classsparta_1_1Port.html#afb0fd7ccb38114dd5aaaf4dc69f03e39" title="The direction of the port." alt="" coords="232,122,417,149"/>
+<area shape="rect" id="node8" href="$classsparta_1_1Clock.html#a9a92feceb7447a3c277a347331b9af8c" title="Get the clock frequency." alt="" coords="209,173,440,199"/>
+<area shape="rect" id="node9" href="$classsparta_1_1TreeNode.html#a1a6d4aac10bfa5345b587d84170441de" title=" " alt="" coords="217,223,433,250"/>
+<area shape="rect" id="node10" href="$classsparta_1_1TreeNode.html#a2051b2b77d112e1898b220b8a3ac1236" title="Gets the name of this node." alt="" coords="225,274,425,301"/>
+<area shape="rect" id="node11" href="$classsparta_1_1Port.html#a668f2ae037c8d17f23cbfb59a5ab4b99" title="Get this Port&#39;s static delay." alt="" coords="229,325,420,351"/>
+<area shape="rect" id="node12" href="$classsparta_1_1Port.html#a3827bc2d2b14dbf48d6c0e995c0a3dfe" title="See if the given port is already bound." alt="" coords="221,375,428,402"/>
+<area shape="rect" id="node13" href="$classsparta_1_1Port.html#afe9b3f3282b3c545c7137cde62cc40dc" title=" " alt="" coords="227,426,422,453"/>
+<area shape="rect" id="node14" href="$classsparta_1_1InPort.html#a32288dcb9ca7bc1aac322242ff219704" title=" " alt="" coords="227,477,422,519"/>
+<area shape="rect" id="node4" href="$classsparta_1_1TreeNode.html#a1d3f11ca5cb5b2ec275b1a7e405d693c" title="Gets the clock associated directly with this Node. This is useful for configuration and simulator deb..." alt="" coords="492,5,687,47"/>
+<area shape="rect" id="node5" href="$classsparta_1_1TreeNode.html#a84997eff2ff8ca93baab07f458d04eb9" title="Gets immediate parent of this node if one exists." alt="" coords="488,71,691,98"/>
+<area shape="rect" id="node6" href="$classsparta_1_1PhasedObject.html#ac8edefaf47c41a0be179827e657955d5" title="Is this node (and thus the entire tree above it) &quot;finalized&quot;." alt="" coords="509,123,669,164"/>
+</map>

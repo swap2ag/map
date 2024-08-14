@@ -1,0 +1,11 @@
+<map id="sparta::RegisterBase::ReadAccess" name="sparta::RegisterBase::ReadAccess">
+<area shape="rect" id="node1" title="Structure containing data for a Register pre&#45; or post&#45;read notification." alt="" coords="388,351,545,392"/>
+<area shape="rect" id="node2" href="$classsparta_1_1RegisterBase.html" title="Base class to represents an architected register of any size that is a power of 2 and greater than 0 ..." alt="" coords="303,261,460,288"/>
+<area shape="rect" id="node3" href="$classsparta_1_1TreeNode.html" title="Node in a composite tree representing a sparta Tree item." alt="" coords="146,165,278,191"/>
+<area shape="rect" id="node4" href="$classsparta_1_1ResourceContainer.html" title="PhasedObject which can hold 0 or 1 Resource pointers to an associatedresource. Contains logic for set..." alt="" coords="5,81,200,108"/>
+<area shape="rect" id="node5" href="$classsparta_1_1PhasedObject.html" title="Object having a specific phase in the sparta construction paradigm." alt="" coords="23,5,183,32"/>
+<area shape="rect" id="node6" href="$classsparta_1_1ArchDataContainer.html" title="Container class for any number of ArchData pointers owned externally." alt="" coords="224,81,419,108"/>
+<area shape="rect" id="node7" href="$structsparta_1_1RegisterBase_1_1Definition.html" title="Describes an architected Register." alt="" coords="303,157,460,199"/>
+<area shape="rect" id="node8" href="$classsparta_1_1DataView.html" title="View into a backend block of memory in an ArchData." alt="" coords="498,261,633,288"/>
+<area shape="rect" id="node9" href="$classsparta_1_1ArchDataSegment.html" title=" " alt="" coords="484,165,673,191"/>
+</map>

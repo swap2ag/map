@@ -1,0 +1,6 @@
+<map id="sparta::ResourceTreeNode::ResourceTreeNode" name="sparta::ResourceTreeNode::ResourceTreeNode">
+<area shape="rect" id="node1" title="Construct a new TreeNode attached to a parent." alt="" coords="5,49,197,90"/>
+<area shape="rect" id="node2" href="$classsparta_1_1TreeNode.html#a7b6ca285ffd1077f9622662c167315e9" title="Adds a TreeNode to this node as a child." alt="" coords="257,5,454,32"/>
+<area shape="rect" id="node3" href="$classsparta_1_1TreeNode.html#a1a6d4aac10bfa5345b587d84170441de" title=" " alt="" coords="247,56,463,83"/>
+<area shape="rect" id="node4" href="$classsparta_1_1TreeNode.html#aeefcb776a4574cd8075f92caaeb4676d" title="Tracks a node as an expected parent without actually adding this node as a child. This is used almost..." alt="" coords="245,107,465,149"/>
+</map>

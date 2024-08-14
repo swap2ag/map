@@ -1,0 +1,21 @@
+<map id="sparta::Resource" name="sparta::Resource">
+<area shape="rect" id="node1" title="The is the base class for all types of resources used by the SPARTA framework." alt="" coords="5,360,136,387"/>
+<area shape="rect" id="node2" href="$classcore__example_1_1Preloader.html" title="implement a PreloaderIF with appropriate knowledge of how to preload yaml files into the lsu&#39;s L1 cac..." alt="" coords="184,335,368,361"/>
+<area shape="rect" id="node3" href="$classsparta_1_1Unit.html" title="The is the base class for user defined blocks in simulation." alt="" coords="227,385,325,412"/>
+<area shape="rect" id="node4" href="$classConsumer.html" title=" " alt="" coords="479,5,567,32"/>
+<area shape="rect" id="node5" href="$classcore__example_1_1BIU.html" title=" " alt="" coords="451,56,596,83"/>
+<area shape="rect" id="node6" href="$classcore__example_1_1Core.html" title=" " alt="" coords="447,107,599,133"/>
+<area shape="rect" id="node7" href="$classcore__example_1_1CPU.html" title=" " alt="" coords="449,157,598,184"/>
+<area shape="rect" id="node8" href="$classcore__example_1_1Decode.html" title=" " alt="" coords="438,208,609,235"/>
+<area shape="rect" id="node9" href="$classcore__example_1_1Dispatch.html" title=" " alt="" coords="434,259,613,285"/>
+<area shape="rect" id="node10" href="$classcore__example_1_1Execute.html" title=" " alt="" coords="437,309,610,336"/>
+<area shape="rect" id="node11" href="$classcore__example_1_1Fetch.html" title=" " alt="" coords="445,360,602,387"/>
+<area shape="rect" id="node12" href="$classcore__example_1_1FlushManager.html" title="Class used by performance models for signaling a flushing event across blocks." alt="" coords="416,411,631,437"/>
+<area shape="rect" id="node13" href="$classcore__example_1_1LSU.html" title=" " alt="" coords="450,461,597,488"/>
+<area shape="rect" id="node14" href="$classcore__example_1_1MSS.html" title=" " alt="" coords="448,512,599,539"/>
+<area shape="rect" id="node15" href="$classcore__example_1_1Rename.html" title=" " alt="" coords="435,563,611,589"/>
+<area shape="rect" id="node16" href="$classcore__example_1_1ROB.html" title=" " alt="" coords="448,613,599,640"/>
+<area shape="rect" id="node17" href="$classcore__example_1_1SimpleTLB.html" title=" " alt="" coords="428,664,619,691"/>
+<area shape="rect" id="node18" href="$classProducer.html" title=" " alt="" coords="484,715,563,741"/>
+<area shape="rect" id="node19" href="$classsparta_1_1Scoreboard.html" title="Class used to track operand dependencies (timed) between units." alt="" coords="451,765,595,792"/>
+</map>

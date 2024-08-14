@@ -1,0 +1,8 @@
+<map id="sparta::log::Message" name="sparta::log::Message">
+<area shape="rect" id="node1" title="Contains a logging message header and content." alt="" coords="188,336,345,363"/>
+<area shape="rect" id="node2" href="$structsparta_1_1log_1_1MessageInfo.html" title="Logging Message information excluding actual message content." alt="" coords="175,247,358,273"/>
+<area shape="rect" id="node3" href="$classsparta_1_1TreeNode.html" title="Node in a composite tree representing a sparta Tree item." alt="" coords="201,157,333,184"/>
+<area shape="rect" id="node4" href="$classsparta_1_1ResourceContainer.html" title="PhasedObject which can hold 0 or 1 Resource pointers to an associatedresource. Contains logic for set..." alt="" coords="5,81,200,108"/>
+<area shape="rect" id="node5" href="$classsparta_1_1PhasedObject.html" title="Object having a specific phase in the sparta construction paradigm." alt="" coords="23,5,183,32"/>
+<area shape="rect" id="node6" href="$classsparta_1_1ArchDataContainer.html" title="Container class for any number of ArchData pointers owned externally." alt="" coords="224,81,419,108"/>
+</map>

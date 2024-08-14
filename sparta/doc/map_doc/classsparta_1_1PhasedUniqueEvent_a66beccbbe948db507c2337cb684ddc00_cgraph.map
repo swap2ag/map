@@ -1,0 +1,6 @@
+<map id="sparta::PhasedUniqueEvent::scheduleRelativeTick" name="sparta::PhasedUniqueEvent::scheduleRelativeTick">
+<area shape="rect" id="node1" title="Schedule at time rel_tick." alt="" coords="5,27,207,69"/>
+<area shape="rect" id="node2" href="$classsparta_1_1TreeNode.html#a2051b2b77d112e1898b220b8a3ac1236" title="Gets the name of this node." alt="" coords="255,5,455,32"/>
+<area shape="rect" id="node3" href="$classsparta_1_1Scheduleable.html#a25a893867d1303b13cc8f3c3beb371de" title="Schedule this event on a relative scheduler tick." alt="" coords="270,57,439,98"/>
+<area shape="rect" id="node4" href="$classsparta_1_1Scheduler.html#a4d5e20a5e5cb060b6583b44357d8f210" title="Schedule a single event. This method should also be thread safe." alt="" coords="503,57,645,98"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="sparta::statistics::SIValuesBuffer::resetSIBuffers" name="sparta::statistics::SIValuesBuffer::resetSIBuffers">
+<area shape="rect" id="node1" title=" " alt="" coords="5,116,228,157"/>
+<area shape="rect" id="node2" href="$classsparta_1_1utils_1_1ValidValue.html#abf0c0609d9131575a50a9b64d864e768" title="Clear the validity of this object." alt="" coords="283,5,457,47"/>
+<area shape="rect" id="node3" href="$classsparta_1_1statistics_1_1SIValuesBuffer.html#af057d8bdc922be1527ee36048145597b" title=" " alt="" coords="276,71,464,127"/>
+<area shape="rect" id="node4" href="$classsparta_1_1utils_1_1ValidValue.html#ae3676d510018298bdc57028aca4efaff" title="Is this value valid." alt="" coords="283,152,457,193"/>
+<area shape="rect" id="node5" href="$namespacesparta_1_1statistics.html#a8e36d86be62029d92c35f12fc1e0920a" title="Utility to set all elements of a vector to NaN." alt="" coords="305,217,435,259"/>
+</map>

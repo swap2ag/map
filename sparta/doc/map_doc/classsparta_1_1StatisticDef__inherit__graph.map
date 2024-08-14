@@ -1,0 +1,12 @@
+<map id="sparta::StatisticDef" name="sparta::StatisticDef">
+<area shape="rect" id="node1" title="Contains a statistic definition (some useful information which can be computed)" alt="" coords="893,46,1040,73"/>
+<area shape="rect" id="node7" href="$classsparta_1_1ContextCounter.html" title=" " alt="" coords="1088,5,1261,47"/>
+<area shape="rect" id="node9" href="$classsparta_1_1ContextCounter.html" title="A container type that allows a modeler to build, store, and charge counts to a specific context." alt="" coords="1088,71,1261,112"/>
+<area shape="rect" id="node2" href="$classsparta_1_1InstrumentationNode.html" title="Base class requiring." alt="" coords="636,46,845,73"/>
+<area shape="rect" id="node3" href="$classsparta_1_1TreeNode.html" title="Node in a composite tree representing a sparta Tree item." alt="" coords="456,46,588,73"/>
+<area shape="rect" id="node4" href="$classsparta_1_1ResourceContainer.html" title="PhasedObject which can hold 0 or 1 Resource pointers to an associatedresource. Contains logic for set..." alt="" coords="213,21,408,47"/>
+<area shape="rect" id="node5" href="$classsparta_1_1PhasedObject.html" title="Object having a specific phase in the sparta construction paradigm." alt="" coords="5,21,165,47"/>
+<area shape="rect" id="node6" href="$classsparta_1_1ArchDataContainer.html" title="Container class for any number of ArchData pointers owned externally." alt="" coords="213,71,408,98"/>
+<area shape="rect" id="node8" href="$classsparta_1_1WeightedContextCounter.html" title=" " alt="" coords="1309,5,1544,47"/>
+<area shape="rect" id="node10" href="$classsparta_1_1WeightedContextCounter.html" title="This is an example context counter subclass used to show how users may supply their own &quot;aggregated v..." alt="" coords="1309,71,1544,112"/>
+</map>

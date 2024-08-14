@@ -1,0 +1,8 @@
+<map id="sparta::PhasedSingleCycleUniqueEvent::schedule" name="sparta::PhasedSingleCycleUniqueEvent::schedule">
+<area shape="rect" id="node1" title="Schedule this PhasedSingleCycleUniqueEvent exactly zero or one cycle into the future...." alt="" coords="5,89,200,131"/>
+<area shape="rect" id="node2" href="$classsparta_1_1Scheduler.html#afd6f4288f6a11a80522091a664b22747" title="Const expression to calculate tick value for indexing." alt="" coords="277,5,419,47"/>
+<area shape="rect" id="node3" href="$classsparta_1_1TreeNode.html#a2051b2b77d112e1898b220b8a3ac1236" title="Gets the name of this node." alt="" coords="248,71,448,98"/>
+<area shape="rect" id="node4" href="$classsparta_1_1Clock.html#ab621af2dc3047de88e78eb0a0a0010d5" title="Return the tick corresponding to the given cycle." alt="" coords="267,122,429,149"/>
+<area shape="rect" id="node5" href="$classsparta_1_1Scheduleable.html#a8e4138971ef32a66e6d14e5b67630f51" title="Return true if this scheduleable was scheduled at all." alt="" coords="269,173,427,215"/>
+<area shape="rect" id="node6" href="$classsparta_1_1Scheduler.html#a0f61de7b477fc17afb98246925797494" title="Is the given Scheduleable item anywhere (in time now &#45;&gt; future) on the Scheduler?" alt="" coords="496,173,639,215"/>
+</map>

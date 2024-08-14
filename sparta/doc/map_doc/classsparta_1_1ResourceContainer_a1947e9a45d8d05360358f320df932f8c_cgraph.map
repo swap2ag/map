@@ -1,0 +1,9 @@
+<map id="sparta::ResourceContainer::getResourceAs" name="sparta::ResourceContainer::getResourceAs">
+<area shape="rect" id="node1" title="Non&#45;const overload of getResourceAs." alt="" coords="5,155,200,197"/>
+<area shape="rect" id="node2" href="$namespacesparta.html#ac0a2df7a7ca53b2fc0384476286b95ec" title="Demangles a C++ symbol." alt="" coords="277,5,413,32"/>
+<area shape="rect" id="node3" href="$classsparta_1_1PhasedObject.html#a2dcca61565924f0a4208c6509f9a42ba" title="Returns the location of this node in device tree which can be used to navigate the device tree in met..." alt="" coords="265,57,425,98"/>
+<area shape="rect" id="node4" href="$classsparta_1_1ResourceContainer.html#af399ae644f27a3982dd3a2a788ae8d24" title="Gets the rtti type name (demangled) of the resource type held by this container. If there is no resou..." alt="" coords="248,122,443,163"/>
+<area shape="rect" id="node5" href="$classsparta_1_1PhasedObject.html#ac8edefaf47c41a0be179827e657955d5" title="Is this node (and thus the entire tree above it) &quot;finalized&quot;." alt="" coords="265,187,425,229"/>
+<area shape="rect" id="node6" href="$classsparta_1_1PhasedObject.html#a5c50c75766fa4096ba77b12c3a53edd1" title="Is this node (and thus the entire tree above it) &quot;finalized&quot;." alt="" coords="265,253,425,294"/>
+<area shape="rect" id="node7" href="$classsparta_1_1PhasedObject.html#a8555fc19699141ca78722846bd2e2dc3" title="Is this node (and thus the entire tree above it) in the &quot;teardown&quot; phase." alt="" coords="265,318,425,359"/>
+</map>

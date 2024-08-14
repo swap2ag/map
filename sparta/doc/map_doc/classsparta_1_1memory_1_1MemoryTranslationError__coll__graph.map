@@ -1,0 +1,5 @@
+<map id="sparta::memory::MemoryTranslationError" name="sparta::memory::MemoryTranslationError">
+<area shape="rect" id="node1" title="Indicates that there was an issue translating an address in the SPARTA framework." alt="" coords="5,155,264,196"/>
+<area shape="rect" id="node2" href="$classsparta_1_1SpartaException.html" title="Used to construct and throw a standard C++ exception. Inherits from std::exception." alt="" coords="46,80,223,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="77,5,192,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="core_example::LSU::LSU" name="core_example::LSU::LSU">
+<area shape="rect" id="node1" title="Constructor for LSU." alt="" coords="5,173,185,200"/>
+<area shape="rect" id="node2" href="$classsparta_1_1Buffer.html#ace76a7b21e07822cfca79fd53b39dbde" title="Request that this queue begin collecting its contents for pipeline collection." alt="" coords="233,5,460,32"/>
+<area shape="rect" id="node3" href="$classsparta_1_1Pipeline.html#a704074f44f2ae9bbca2df410a5197ca2" title="Enable pipeline collection." alt="" coords="259,57,434,98"/>
+<area shape="rect" id="node4" href="$classsparta_1_1Resource.html#ad63883ee1323f0a4c5a14798e5fd083a" title="Gets the TreeNode (container) for this resource (if any)" alt="" coords="235,123,458,149"/>
+<area shape="rect" id="node5" href="$classsparta_1_1TreeNode.html#aadc69fe186075177c6559e84188982e9" title="Gets the group index of this node." alt="" coords="237,173,457,200"/>
+<area shape="rect" id="node6" href="$classsparta_1_1NotificationSourceBase.html#a8bd1a11753aa860f953f65f25cf22198" title="Is this NotificationSourceBase being observed at this node or an ancestor of any distance." alt="" coords="251,225,442,266"/>
+<area shape="rect" id="node7" href="$classsparta_1_1Pipeline.html#a672c64dfbccd9cb344aff2370c63eade" title="Ask pipeline to perform its own update." alt="" coords="255,290,438,331"/>
+<area shape="rect" id="node8" href="$classsparta_1_1Pipeline.html#a0c9f097a45c06dec19ff946fb999566e" title="Register event handler for a designated pipeline stage." alt="" coords="256,355,437,397"/>
+</map>

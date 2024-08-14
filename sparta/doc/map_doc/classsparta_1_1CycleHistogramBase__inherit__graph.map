@@ -1,0 +1,6 @@
+<map id="sparta::CycleHistogramBase" name="sparta::CycleHistogramBase">
+<area shape="rect" id="node1" title="CycleHistogramBase class for uint64_t values." alt="" coords="5,56,212,83"/>
+<area shape="rect" id="node2" href="$classsparta_1_1CycleHistogramStandalone.html" title="CycleHistogramStandalone class for uint64_t values." alt="" coords="260,5,508,32"/>
+<area shape="rect" id="node3" href="$classsparta_1_1CycleHistogramTreeNode.html" title="CycleHistogramTreeNode class for uint64_t values." alt="" coords="266,56,502,83"/>
+<area shape="rect" id="node4" href="$classsparta_1_1EnumCycleHistogram.html" title="EnumCycleHistogram class for C++ Enum values." alt="" coords="278,107,490,149"/>
+</map>

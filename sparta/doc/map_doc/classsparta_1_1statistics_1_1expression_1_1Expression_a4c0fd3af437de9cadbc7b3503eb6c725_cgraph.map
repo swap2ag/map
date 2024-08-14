@@ -1,0 +1,5 @@
+<map id="sparta::statistics::expression::Expression::tfunc" name="sparta::statistics::expression::Expression::tfunc">
+<area shape="rect" id="node1" title="Construct a ternary function having the given name and function." alt="" coords="5,45,185,101"/>
+<area shape="rect" id="node2" href="$classsparta_1_1statistics_1_1expression_1_1Expression.html#a558cf5d7892f85a904f3a4365cd35db8" title="Makes a clone of the content of this expression." alt="" coords="233,5,413,61"/>
+<area shape="rect" id="node3" href="$classsparta_1_1statistics_1_1expression_1_1Expression.html#ad7b52575d631ea91eb4c6dc054a1b392" title="Constructs an expression containing no content." alt="" coords="233,85,413,141"/>
+</map>
